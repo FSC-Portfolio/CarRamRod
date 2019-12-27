@@ -15,9 +15,9 @@ Here at Car Ramrod our goal is to collectively innovate and build new Informatio
 
 [Navigator](#)
 - [Meet the Team](./team.md)
-- [Job Listing](#job-listing)
-- [Personality](#what-is-my-personality-like)
-- [Project Idea](#my-awesome-untitled-project)
+- [Interesting Jobs](./jobs.md)
+- [Whiepapers - Our Expertise](./report.md)
+- [Project Idea (Darts Management System)](./project.md)
 
-### About Nathaniel
-![It's my face](./img/me.png#face)
+*Do we have some idea of what drawl we want here?*
+Car Ramrod is a team of eager technology specialists that have all come together to help bring fun, interesting, integrated, new technological applications into the world.
