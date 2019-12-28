@@ -20,7 +20,7 @@ a custom jekyll theme. -->
 
 [Team Memebers](#)
 - [Joshua Laver - "self proclaimed title"](#joshualaver)
-- [Tim Power - "self proclaimed title"](#timpower)
+- [Tim Power - Network Engineer](#timpower)
 - [Justin Reid - Junior Developer](#justinreid)
 - [Nathaniel Rogers - Hopefull Pentester](#nathanielrogers)
 - [JT (not sure name) - "self proclaimed title"](#jt)
