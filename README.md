@@ -16,8 +16,5 @@ Here at Car Ramrod our goal is to collectively innovate and build new Informatio
 [Navigator](#)
 - [Meet the Team](./team.md)
 - [Interesting Jobs](./jobs.md)
-- [Whiepapers - Our Expertise](./reports.md)
-- [Project Idea (Darts Club Management System)](./project.md)
 
-*Do we have some idea of what drawl we want here?*
 Car Ramrod is a team of eager technology specialists that have all come together to help bring fun, interesting, integrated, new technological applications into the world.
