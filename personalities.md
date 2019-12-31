@@ -1,4 +1,4 @@
-# Car RamRod - Job Opportunities
+# Car RamRod - Our Personalities
 
 [Navigator](./README.md)
 - [Meet the Team](./team.md)
