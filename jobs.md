@@ -1,6 +1,6 @@
 # Car RamRod - Job Opportunities
 
-[Navigator](#)
+[Navigator](./README.md)
 - [Meet the Team](./team.md)
 - Interesting Jobs
 
