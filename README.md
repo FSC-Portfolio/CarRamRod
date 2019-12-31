@@ -1,4 +1,4 @@
-# Car Ramrod - Assignment 2
+# Car RamRod - Assignment 2
 
 <style type="text/css">
 img[src*="#face"] {
@@ -11,10 +11,10 @@ img[src*="#face"] {
 a custom jekyll theme. -->
 </style>
 
-Here at Car Ramrod our goal is to collectively innovate and build new Information Technologoies!
+Here at Car RamRod our goal is to collectively innovate and build new Information Technologoies!
 
 [Navigator](#)
 - [Meet the Team](./team.md)
 - [Interesting Jobs](./jobs.md)
 
-Car Ramrod is a team of eager technology specialists that have all come together to help bring fun, interesting, integrated, new technological applications into the world.
+Car RamRod is a team of eager technology specialists that have all come together to help bring fun, interesting, integrated, new technological applications into the world.

@@ -1,4 +1,4 @@
-# Car Ramrod - Job Opportunities
+# Car RamRod - Job Opportunities
 
 [Navigator](#)
 - [Meet the Team](./team.md)
@@ -6,7 +6,7 @@
 
 [Team Memebers](#)
 - [Joshua Laver - Cyber Security Analyst](#joshualaver)
-- [Tim Power - Network](#timpower)
+- [Tim Power - Network Engineer](#timpower)
 - [Justin Reid - Junior Developer](#justinreid)
 - [Nathaniel Rogers - Hopefull Pentester](#nathanielrogers)
 - [JT (not sure name) - "self proclaimed title"](#jt)
