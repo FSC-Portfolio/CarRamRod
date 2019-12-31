@@ -13,6 +13,7 @@ a custom jekyll theme. -->
 
 [Navigator](./README.md)
 - Meet the Team
+- [Our Personalities](./personalities.md)
 - [Interesting Jobs](./jobs.md)
 
 [Team Memebers](#)

@@ -15,6 +15,7 @@ Here at Car RamRod our goal is to collectively innovate and build new Informatio
 
 [Navigator](#)
 - [Meet the Team](./team.md)
+- [Our Personalities](./personalities.md)
 - [Interesting Jobs](./jobs.md)
 
 Car RamRod is a team of eager technology specialists that have all come together to help bring fun, interesting, integrated, new technological applications into the world.
