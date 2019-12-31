@@ -10,7 +10,7 @@
 - [Tim Power - Network Engineer](#timpower)
 - [Justin Reid - Junior Developer](#justinreid)
 - [Nathaniel Rogers - Hopefull Pentester](#nathanielrogers)
-- [Justin Turner - "self proclaimed title"](#justinturner)
+- [Justin Turner - Software Developer](#justinturner)
 
 ### Joshua Laver
 *Paste in personalities blurb*

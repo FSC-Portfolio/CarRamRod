@@ -10,7 +10,7 @@
 - [Tim Power - Network Engineer](#timpower)
 - [Justin Reid - Junior Developer](#justinreid)
 - [Nathaniel Rogers - Hopefull Pentester](#nathanielrogers)
-- [Justin Turner - "self proclaimed title"](#justinturner)
+- [Justin Turner - Software Developer](#justinturner)
 
 ### Joshua Laver
 My ideal job that I can see myself doing is cyber security for a company like AEMO, being the lead
