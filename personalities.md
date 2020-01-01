@@ -57,7 +57,7 @@ project being of a high standard and completed as per requirements.
   - Agreeableness – 69% 
   - Neuroticism – 56%
 
-With my result as the Mediator I have found it rings true throughout all projects personal and professionally that I excel in organising the workloads and ensuring the people in the project has a workload they feel is acheivavble. I usually end up with the technical jobs because of my skills as a programmer. Thinking logically is very natural for me, so it makes sense that programming is an extension of my normal thinking process. As a visual learner thinking things through usually results in rough sketches drawn on scratch paper, which also can double as rough documentation planning which is a happy coincidence.
+With my result as the Mediator I have found it rings true throughout all projects, personal and professional, that I excel in organising the workloads and ensuring the people in the project have responsibilities they feel are acheivavble. I usually end up with the technical jobs because of my skills as a programmer. Thinking logically is very natural for me, so it makes sense that programming is an extension of my normal thinking process. As a visual learner thinking things through usually results in rough sketches drawn on scratch paper, which also can double as rough documentation planning which is a happy coincidence.
 
 ### Justin Turner
 - Myers-Briggs Type Indicator – ENTP - "The Inventor"
