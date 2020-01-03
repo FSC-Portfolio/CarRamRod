@@ -64,6 +64,16 @@ With my result as the Mediator I have found it rings true throughout all project
 - Learning Style - Auditiory/Visual Learner
 - Creativity Test Result: 58.29 creativity score
 
-*Paste in JT's personalities blurb*
+The results of the personality tests indicate I am extraverted, intuitive, thoughtful, perceptive, and
+learn best through a visual/ auditory method. I believe this is accurate to my personality, I often
+thrive in group scenarios and don’t have any difficulty speaking my mind, and can usually spot
+potential issues/ opportunities when in the planning stages of a task. I do sometimes play the devils
+advocate too often and need to ensure I am remaining cohesive for the group. From past
+experience, I definitely understand concepts a lot quicker when someone presents them to me
+visually, and often find myself referring to videos in learning scenarios. I also have found that
+repeating things to myself or using mnemonics helps me to remember things a lot easier. The
+creativity test indicated that I was slightly above average in creativity, and I would agree with that
+score as I think I am creative only in certain situations, or when I spend a decent amount of time
+considering something.
 
 *JR is writing up our group summary about our personalities*
