@@ -23,7 +23,7 @@ a custom jekyll theme. -->
 - [Nathaniel Rogers - Hopefull Pentester](#nathanielrogers)
 - [Justin Turner - Software Developer](#justinturner)
 
-### Joshua Laver
+### Joshua Laver (S3831354)
 My name is Joshua Laver, I was born on the 17 th of January 1997. When I was a kid, I fell in love with 4 things, WWE, Football(soccer), Gaming and computers. The first time I ever played a game was way back in 2001 when my dad brought home the very first PlayStation 1 with Crash Bandicoot and Ratchet and Clank. Since then I have become a huge gamer, having over 2000 hours with some games like League of Legends(4671), FIFA and The Elder Scrolls V: Skyrim. I love to work on computers as well, one of my favourite things to do as a kid was take apart my computer clean it and put it back together. I also love cooking, having taught myself thanks to Gordon Ramsey videos, I can now cook a mean steak, fish and even curries and risottos, I'll get there one day!
 
 [Link to Assignment 1](https://lavren55.github.io/index.html)
@@ -44,7 +44,13 @@ and tech enthusiast.
 [Link to Assignment 1](https://timpower90.github.io)
 
 ### Justin Reid (S3824226)
-*Paste in about me blurb*
+I enjoy creating programs that make life easier and faster, I mostly code in
+Python and build websites with Django. When I’m not working on one of a bunch
+of side projects; I’m studying, cartooning, or working on my home built arcade
+machine. My doggo is usually right by my side chewing or snoring. My ideal job
+is as a software developer – I’d like to continue making web based applications
+and also build retro style games.
+
 [Link to Assignment 1](https://jayarghargh.github.io/)
 
 ### Nathaniel Rogers (S3829502)
@@ -52,8 +58,18 @@ Glad you could stop on by and learn about our team! I’m Nathaniel Rogers (3829
 
 [Link to Assignment 1](https://pivitparkour94.github.io/rmit-intro2it-a1/)
 
-### Justin Turner (Ss3792793)
-*Paste in about me blurb*
+### Justin Turner (S3792793)
+My name is Justin Turner, I am 28 years old and am currently studying IT at RMIT to pursue a career
+in software development, with a specific interest in the gaming industry. My interest in IT started at
+a young age, I have always enjoyed getting my hands on new hardware and technology, building PCs,
+and gaming, but initially did not see IT as my career of choice. While undertaking an engineering
+degree I found myself enjoying programming courses more than any other aspect, so made the
+choice to switch my degree from Engineering to IT. Throughout my working life I have had
+experience as a hospitality crew member, in a data entry role, supervising a team of 11 people, and
+in my current role working in software support within the media industry. In my spare time I am a
+pretty big gamer so am frequently playing new releases, and thoroughly enjoy playing/ watching
+basketball.
+
 [Link to Assignment 1](https://jtcodegod.github.io/)
 
 
