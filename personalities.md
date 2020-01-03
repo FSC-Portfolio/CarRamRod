@@ -106,4 +106,4 @@ creativity test indicated that I was slightly above average in creativity, and I
 score as I think I am creative only in certain situations, or when I spend a decent amount of time
 considering something.
 
-*JR is writing up our group summary about our personalities*
+*Someone to write up our group summary about our personalities*
